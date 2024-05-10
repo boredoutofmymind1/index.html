@@ -1,0 +1,29 @@
+
+body {
+  background-color: AliceBlue;
+  color: rgb(45, 185, 68);
+  font-family:cursive;
+
+  
+   
+  p {
+    width: 50%;
+    height: 50%;
+    border: 10px dotted rgb(47, 0, 255);
+    margin: 10;
+    line-height: 1;
+    margin: 50px;
+    padding: 30px;
+    background-color:red ;
+
+
+
+  }
+  .title {
+    font-size: 100px;
+    text-decoration: underline
+  }
+  #about {
+    background-color: red;
+  }
+  
